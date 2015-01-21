@@ -1,0 +1,15 @@
+/*-- Bootstrap CSS. -----------------------------------------*/
+
+@import "../../vendor/bootstrap/css/bootstrap.css";
+
+/* Font Awesome CSS. ----------------------------------------*/
+
+@import "../../vendor/fontawesome/css/font-awesome.css";
+
+/* Ionicons CSS. ----------------------------------------*/
+
+@import "../../vendor/ionicons/css/ionicons.css";
+
+/*-- Application stylesheets. -----------------------------------------------*/
+
+@import "AdminLTE.css";
